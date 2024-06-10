@@ -36,14 +36,16 @@ PROCESS: elicitation, analysis, specification, and verification to ensure softwa
 IMPORTANCE: it tells everyone involved with the project what needs to be done
 
 Software Design Principles:
-Review to minimize errors
-Assessed for Quality
-Should Degrade Gently
-Not suffer from "tunnel vision
-Should not "Reinvent the wheel
+✓ Review to minimize errors
+✓ Assessed for Quality
+✓ Should Degrade Gently
+✓ Not suffer from "tunnel vision
+✓ Should not "Reinvent the wheel
+
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 
-Testing in Software Engineering: ANS: Conducting of various tests to ensure the software meet quality standard and functional requirement.
+Testing in Software Engineering: 
+ANS: Conducting of various tests to ensure the software meet quality standard and functional requirement.
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development? Version Control Systems:
 
@@ -52,16 +54,17 @@ What are version control systems, and why are they important in software develop
 Software Maintenance: Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle? 
 ANS:Software maintenance is the process of changing, modifying, and updating software to keep up with customer needs.
 
-Preventive Maintenance: Includes regular and time-based schedule
-Corrective Maintenance: Occurs when an issue is noticed
-Predictive Maintenance: Is data-driven and impacted by present parameters
+✓ Preventive Maintenance: Includes regular and time-based schedule
+✓ Corrective Maintenance: Occurs when an issue is noticed
+✓ Predictive Maintenance: Is data-driven and impacted by present parameters
 Ethical Considerations in Software Engineering:
-
 ANS:
-Data Security
-Reliability
-Transparency
-Compliance
-What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work? ANS: addictive design; corporate ownership of personal data; algorithmic bias; weak cyber security and personally identifiable information (PII) protection; and. overemphasis on features.
+1. Data Security
+2. Reliability
+3. Transparency
+5. Compliance
+
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work? 
+ANS: addictive design; corporate ownership of personal data; algorithmic bias; weak cyber security and personally identifiable information (PII) protection; and. overemphasis on features.
 
 Submission Guidelines: Your answers should be well-structured, concise, and to the point. Provide real-world examples or case studies wherever possible. Cite any references or sources you use in your answers. Submit your completed assignment by [due date].
