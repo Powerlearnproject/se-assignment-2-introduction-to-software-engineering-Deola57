@@ -3,34 +3,39 @@
 # SE-Assignment-2
 Assignment: Introduction to Software Engineering Instructions: Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
-Questions: Define Software Engineering: ANS: Software Engineering is the systematic application of engineeering principle,methods and tools to the development and matainance of high quality software sysytems.
+Questions: Define Software Engineering:
+ANS: Software Engineering is the systematic application of engineeering principle,methods and tools to the development and matainance of high quality software sysytems.
 
-What is software engineering, and how does it differ from traditional programming? ANS: software engineering is the process of designing,developing.testing,deployment and maintainance of software products. software engineering involves feedback from user while traditional prgramming leaves no room for the system to learn or adapt independently
+What is software engineering, and how does it differ from traditional programming?
+ANS: software engineering is the process of designing,developing.testing,deployment and maintainance of software products. software engineering involves feedback from user while traditional prgramming leaves no room for the system to learn or adapt independently
 
 Software Development Life Cycle (SDLC): ANS:SDLC consist of several phase
+1. Requirement
+2. Design
+3. Implementation
+4. Testing
+5. Deployment
+6. Maintainance
 
-Requirement
-Design
-Implementation
-Testing
-Deployment
-Maintainance
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+1. Requirement: gathering and documenting user needs and system requirement
+2. Design: Creating high-level and detailed designs of the software architecture and user interface
+3. Implementation: Writing code and building the software according to the design specification
+4. Testing: Conducting various tests to ensure the software meets quality standard and functional requirement
+5. Deployment: Releasing the software to user for rating and feedback
+6. Maintainance: Providing ongoing support,updates, and enhancement to the software afer deployment
 
-Requirement: gathering and documenting user needs and system requirement
-Design: Creating high-level and detailed designs of the software architecture and user interface
-Implementation: Writing code and building the software according to the design specification
-Testing: Conducting various tests to ensure the software meets quality standard and functional requirement
-Deployment: Releasing the software to user for rating and feedback
-Maintainance: Providing ongoing support,updates, and enhancement to the software afer deployment
-Agile vs. Waterfall Models: ANS: Agile is the iterative and incremental approach focused on flexibility, collaboration and responding to change While waterfall is a sequential approach with distinct phase(e.g requiremment,design,implemetation) flowuing downward like a waterfall.
+Agile vs. Waterfall Models:
+ANS: Agile is the iterative and incremental approach focused on flexibility, collaboration and responding to change While waterfall is a sequential approach with distinct phase(e.g requiremment,design,implemetation) flowuing downward like a waterfall.
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred? Requirements Engineering:
 
-What is requirements engineering? Describe the process and its importance in the software development lifecycle. ANS: Requirements engineering is the process of defining, documenting, and maintaining requirements. PROCESS: elicitation, analysis, specification, and verification to ensure software meets stakeholders' needs. IMPORTANCE: it tells everyone involved with the project what needs to be done
+What is requirements engineering? Describe the process and its importance in the software development lifecycle. 
+ANS: Requirements engineering is the process of defining, documenting, and maintaining requirements.
+PROCESS: elicitation, analysis, specification, and verification to ensure software meets stakeholders' needs.
+IMPORTANCE: it tells everyone involved with the project what needs to be done
 
 Software Design Principles:
-
 Review to minimize errors
 Assessed for Quality
 Should Degrade Gently
@@ -44,13 +49,15 @@ Describe the different levels of software testing (unit testing, integration tes
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features. Software Project Management: Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects? ANS: software project manager: oversees the planning,execution and delivery of software projects. challenges: Communication. ... Lack of Accountability. ... Resource Allocation. ... Scope Creep. ... Project Management Software. ... Poor Planning and Unrealistic Deadlin
 
-Software Maintenance: Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle? ANS:Software maintenance is the process of changing, modifying, and updating software to keep up with customer needs.
+Software Maintenance: Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle? 
+ANS:Software maintenance is the process of changing, modifying, and updating software to keep up with customer needs.
 
 Preventive Maintenance: Includes regular and time-based schedule
 Corrective Maintenance: Occurs when an issue is noticed
 Predictive Maintenance: Is data-driven and impacted by present parameters
-Ethical Considerations in Software Engineering: ANS:
+Ethical Considerations in Software Engineering:
 
+ANS:
 Data Security
 Reliability
 Transparency
